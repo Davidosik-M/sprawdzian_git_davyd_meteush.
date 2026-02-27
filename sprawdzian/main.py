@@ -1,6 +1,5 @@
-zadanie2
-y = 2
-z = 2 main.py y
-x = 1
-
- main
+zadanie3
+print("1")
+print("2")
+print("3")
+main
