@@ -1,5 +1,4 @@
-zadanie3
-print("1")
-print("2")
-print("3")
+zadanie4
+Ignacy Ropiak
+
 main
